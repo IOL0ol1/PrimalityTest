@@ -61,3 +61,6 @@ Some Carmichael Number
 10585,15841,29341,41041,46657,52633,62745,63973,75361,    
 161038,215326,2568226,143742226
 
+## Preview
+
+![Click to View](https://github.com/IOL0ol1/PrimalityTest/raw/master/preview.png)
